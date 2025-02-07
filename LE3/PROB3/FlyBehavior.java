@@ -1,0 +1,5 @@
+interface FlyBehavior {
+    void fly();
+}
+
+
